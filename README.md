@@ -1,3 +1,3 @@
 # Vanilla-JS-Stopwatch
 
-One of my fries JS projects
+One of my first JS projects
